@@ -93,7 +93,7 @@ input:focus {outline: none;}
     text-align: center;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 600px) {
     .glav-block {
         width: 80%;
         position: relative;
